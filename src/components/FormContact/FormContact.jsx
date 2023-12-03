@@ -1,6 +1,3 @@
-// import css from './FormContact';
-import React from 'react';
-
 const FormContact = ({
   name,
   number,
